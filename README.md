@@ -1,3 +1,5 @@
+### 首先鄙视那些假开源的！！！各种套路，恶心人。求人不如求己，我准备自己动手，功能全部开源！！！
+
 <div align="center">
 
 <h1 align="center">🍭 ChatGPT-Pro</h1>
