@@ -388,8 +388,6 @@ export const useChatStore = create<ChatStore>()(
       },
 
       async onUserInput(content, extAttr?: any) {
-
-
         const session = get().currentSession();
         const modelConfig = session.mask.modelConfig;
 

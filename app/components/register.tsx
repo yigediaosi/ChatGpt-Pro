@@ -7,7 +7,7 @@ import Locale from "../locales";
 import { Path } from "../constant";
 import { ErrorBoundary } from "./error";
 import { Link, useNavigate } from "react-router-dom";
-const DEFAULT_SERVER_USR = "https://admin.codeok.cn/";
+const DEFAULT_SERVER_USR = "http://127.0.0.1:81/";
 const SERVER_USR = process.env.SERVER_USR || DEFAULT_SERVER_USR;
 const DEFAULT_CODE = "chatGPT-PLUS";
 const CODE = process.env.CODE || DEFAULT_CODE;

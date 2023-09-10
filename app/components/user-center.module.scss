@@ -7,6 +7,18 @@
   cursor: pointer;
 }
 
+.listitem {
+  background-color: rgb(250, 250, 250);
+}
+
+.listitem_value {
+  background-color: rgb(255, 255, 255);
+}
+
+.iconButton_SignIn{
+  left: 10px;
+}
+
 .edit-prompt-modal {
   display: flex;
   flex-direction: column;

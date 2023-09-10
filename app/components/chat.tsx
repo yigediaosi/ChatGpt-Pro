@@ -28,7 +28,7 @@ import BottomIcon from "../icons/bottom.svg";
 import StopIcon from "../icons/pause.svg";
 import RobotIcon from "../icons/robot.svg";
 import UploadIcon from "../icons/upload.svg";
-const DEFAULT_SERVER_USR = "https://admin.codeok.cn/";
+const DEFAULT_SERVER_USR = "http://127.0.0.1:81/";
 const SERVER_USR = process.env.SERVER_USR || DEFAULT_SERVER_USR;
 
 import {

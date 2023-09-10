@@ -2,8 +2,6 @@
 
 <h1 align="center">🍭 ChatGPT-Pro</h1>
 
-中文 | [English](./README_EN.md) | [日本語](./README_JA.md)
-
 基于[ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) + [ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney)开发，扩展了，注册、邮箱登陆、扫码登陆、会员管理、面具管理、SD绘画等功能
 
 [QQ交流群](https://gitee.com/981743898/ChatGPT-PRO/issues/I7VUZB) | [💥演示站点](https://ai.codeok.cn)
@@ -12,9 +10,15 @@
 
 ![主界面](./docs/images/cover2.png)
 
+
+
+### 成品展示
+![提示词](docs/images/cover3.png)
+![成品图](docs/images/demo.png)
+![成品图2](docs/images/demo2.png)
 </div>
 
-
+## 功能列表
 - [x] 原`ChatGPT-Next-Web`所有功能
 - [x] Midjourney `Imgine` 想象
 - [x] Midjourney `Upscale` 放大
@@ -40,6 +44,7 @@ MIDJOURNEY_PROXY_URL=http://yourip:port
 - 界面中
 
 ![mj-6](./docs/images/mj-6.png)
+
 
 ### MIDJOURNEY_PROXY_API_SECRET
 （可选）`midjourney-proxy`的API请求密钥，防止他人恶意调用，可在环境变量中配置。
